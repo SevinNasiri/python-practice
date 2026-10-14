@@ -1,0 +1,15 @@
+# محیط‌های مجازی پایتون
+venv/
+.venv/
+env/
+
+# فایل‌های کش پایتون
+__pycache__/
+*.pyc
+
+# فایل‌های VS Code
+.vscode/
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
